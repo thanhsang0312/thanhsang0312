@@ -1,17 +1,9 @@
-### Hi there 👋
+Hi 👋 My name is Cao Thanh Sang
+===============================
 
-<!--
-**thanhsang0312/thanhsang0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer
+-------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...![01_logobachkhoatoi](https://github.com/thanhsang0312/thanhsang0312/assets/80513423/74940c85-2978-45f1-b3c3-f4d2d06adea9)
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Ho Chi Minh City
+* ✉️  You can contact me at [thanhsang0312@gmail.comThanhThanh](mailto:thanhsang0312@gmail.comThanhThanh)
+* 🧠  I'm learning HTML, SCSS, JavaScript, ReactJS, PHP, C++
