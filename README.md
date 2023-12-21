@@ -3,7 +3,7 @@
 
 
 
-Hi 👋 My name is Cao Thanh Sang
+Hi 👋 My name is Cao Thanh Sang aka BiggEggss
 ===============================
 
 Front-end Developer
