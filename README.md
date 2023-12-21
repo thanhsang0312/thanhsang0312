@@ -1,6 +1,5 @@
 
-![bhumil-chheda--h45iGpkkPA-unsplash](https://github.com/thanhsang0312/thanhsang0312/assets/80513423/0996a896-c631-4c6c-97ce-fec247ea231a)
-
+![bhumil-chheda--h45iGpkkPA-unsplash (1)](https://github.com/thanhsang0312/thanhsang0312/assets/80513423/ae3c0646-01f2-42c4-8fb3-827f07c10eb9)
 
 
 Hi 👋 My name is Cao Thanh Sang aka BiggEggss
