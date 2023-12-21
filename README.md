@@ -1,4 +1,5 @@
-<img src="![bhumil-chheda--h45iGpkkPA-unsplash](https://github.com/thanhsang0312/thanhsang0312/assets/80513423/3f5202fe-fbb7-49ff-a51c-d1f2017554c3)" alt="">
+
+![bhumil-chheda--h45iGpkkPA-unsplash](https://github.com/thanhsang0312/thanhsang0312/assets/80513423/ac976021-fd75-4edf-94f7-faecbfe59fcc)
 
 
 Hi 👋 My name is Cao Thanh Sang
