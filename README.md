@@ -8,7 +8,7 @@ Front-end Developer
 * ✉️  You can contact me at [thanhsang0312@gmail.comThanhThanh](mailto:thanhsang0312@gmail.comThanhThanh)
 * 🧠  I'm learning HTML, SCSS, JavaScript, ReactJS, PHP, C++
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
