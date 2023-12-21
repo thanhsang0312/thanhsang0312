@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 * 🌍  I'm based in Ho Chi Minh City
-* ✉️  You can contact me at [thanhsang0312@gmail.comThanhThanh](mailto:thanhsang0312@gmail.comThanhThanh)
+* ✉️  You can contact me at [thanhsang0312@gmail.com](mailto:thanhsang0312@gmail.com)
 * 🧠  I'm learning HTML, SCSS, JavaScript, ReactJS, PHP, C++
 
 
